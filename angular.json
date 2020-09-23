@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practice-NGfor-issueNo123"
+    }
+  },
+  "defaultProject": "practice-NGfor-issueNo123",
+  "cli": {
+    "analytics": "881cb508-0420-4ee3-ba63-bcd77a532333"
+  }
 }
